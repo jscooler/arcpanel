@@ -694,7 +694,7 @@ body::-webkit-scrollbar {
 /* /////////////////////////////////////////////// */
 /* #region  backgrounds */
 .bg-white-boxes {
-    background-image: url(../src/bgs/white.jpg);
+    background-image: url(src/bgs/white.jpg);
 }
 .darker4 {
     background: rgba(0, 0, 0, 0.4);
